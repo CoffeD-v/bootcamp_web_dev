@@ -1,3 +1,17 @@
+
+body{
+    background: rgb(245,154,154);
+    background: radial-gradient(circle, rgba(245,154,154,1) 0%, rgba(228,63,30,1) 100%);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 600;
+    font-family: consolas;
+}
 .pokemon {
     display: inline-block;
     text-align: center;
