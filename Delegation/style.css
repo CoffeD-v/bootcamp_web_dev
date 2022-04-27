@@ -29,6 +29,11 @@ button {
   cursor: pointer;
 }
 
+button:hover{
+  background: rgba(41, 50, 104, 1);
+  color: white;
+}
+
 input {
   color: white;
   margin: 1rem;
